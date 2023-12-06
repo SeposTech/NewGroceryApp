@@ -10,6 +10,5 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun init() {
-
     }
 }
